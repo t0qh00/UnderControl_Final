@@ -1,0 +1,210 @@
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.exe.config
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.exe
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.pdb
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.exe
+C:\Users\Jurgen\Desktop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.pdb
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.exe.config
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.exe
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\bin\Debug\UnderControl.pdb
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.exe
+F:\Laptop\Proyecto de analisis\UnderControl\UnderControl\obj\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\UnderControl.exe.config
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\BLL.dll
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\DAL.dll
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\BLL.pdb
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\bin\Debug\DAL.pdb
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+E:\Progra\UnderControl\UnderControl\bin\Debug\UnderControl.exe.config
+E:\Progra\UnderControl\UnderControl\bin\Debug\UnderControl.exe
+E:\Progra\UnderControl\UnderControl\bin\Debug\UnderControl.pdb
+E:\Progra\UnderControl\UnderControl\bin\Debug\BLL.dll
+E:\Progra\UnderControl\UnderControl\bin\Debug\DAL.dll
+E:\Progra\UnderControl\UnderControl\bin\Debug\BLL.pdb
+E:\Progra\UnderControl\UnderControl\bin\Debug\DAL.pdb
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.exe
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.pdb
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\UnderControl.exe.config
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\UnderControl.exe
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\UnderControl.pdb
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\BLL.dll
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\DAL.dll
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\BLL.pdb
+E:\Progra\UnderControlJ2\UnderControl\bin\Debug\DAL.pdb
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.exe
+E:\Progra\UnderControlJ2\UnderControl\obj\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\UnderControl.exe.config
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\BLL.dll
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\DAL.dll
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\BLL.pdb
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\bin\Debug\DAL.pdb
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Downloads\UnderControl\UnderControl\obj\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.csprojAssemblyReference.cache
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmBusquedaClientes.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\UnderControl.exe.config
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\UnderControl.exe
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\UnderControl.pdb
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\BLL.dll
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\DAL.dll
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\BLL.pdb
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\bin\Debug\DAL.pdb
+C:\Users\Selenia-PC\Desktop\UnderControlN\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+E:\Progra\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaClientes.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaCostosIndirectos.resources
+C:\Users\Selenia-PC\Desktop\UnderControl\UnderControl\obj\Debug\UnderControl.FrmBusquedaClientes.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\UnderControl.exe.config
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\UnderControl.exe
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\BLL.dll
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\DAL.dll
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\BLL.pdb
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\bin\Debug\DAL.pdb
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.csproj.AssemblyReference.cache
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.BuscarOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaCostosIndirectos.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaClientes.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaEmpleado.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaIdOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaProveedores.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmBusquedaMateriales.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmCostosIndirectos.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmCrearOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmClientes.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmEditarOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmManoDeObra.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmManoDeObraOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmMateriales.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmMaterialesOrden.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmOrdenes.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.FrmPrincipal.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.HojaDeCostos.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.Properties.Resources.resources
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.csproj.GenerateResource.cache
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.csproj.CoreCompileInputs.cache
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.csproj.CopyComplete
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.exe
+C:\Users\t0qh00\Desktop\UnderControl_Final\UnderControl\obj\Debug\UnderControl.pdb

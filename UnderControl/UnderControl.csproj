@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1637DC8D-D856-441E-A19B-5A90811A5476}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UnderControl</RootNamespace>
+    <AssemblyName>UnderControl</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarOrden.Designer.cs">
+      <DependentUpon>BuscarOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaCostosIndirectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaCostosIndirectos.Designer.cs">
+      <DependentUpon>FrmBusquedaCostosIndirectos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaClientes.Designer.cs">
+      <DependentUpon>FrmBusquedaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaEmpleado.Designer.cs">
+      <DependentUpon>FrmBusquedaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaIdOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaIdOrden.Designer.cs">
+      <DependentUpon>FrmBusquedaIdOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaProveedores.Designer.cs">
+      <DependentUpon>FrmBusquedaProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusquedaMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusquedaMateriales.Designer.cs">
+      <DependentUpon>FrmBusquedaMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCostosIndirectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCostosIndirectos.Designer.cs">
+      <DependentUpon>FrmCostosIndirectos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCrearOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCrearOrden.Designer.cs">
+      <DependentUpon>FrmCrearOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEditarOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEditarOrden.Designer.cs">
+      <DependentUpon>FrmEditarOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManoDeObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManoDeObra.Designer.cs">
+      <DependentUpon>FrmManoDeObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManoDeObraOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManoDeObraOrden.Designer.cs">
+      <DependentUpon>FrmManoDeObraOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMateriales.Designer.cs">
+      <DependentUpon>FrmMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialesOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialesOrden.Designer.cs">
+      <DependentUpon>FrmMaterialesOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrdenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrdenes.Designer.cs">
+      <DependentUpon>FrmOrdenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HojaDeCostos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HojaDeCostos.Designer.cs">
+      <DependentUpon>HojaDeCostos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnderControlDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UnderControlDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BuscarOrden.resx">
+      <DependentUpon>BuscarOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaCostosIndirectos.resx">
+      <DependentUpon>FrmBusquedaCostosIndirectos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaClientes.resx">
+      <DependentUpon>FrmBusquedaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaEmpleado.resx">
+      <DependentUpon>FrmBusquedaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaIdOrden.resx">
+      <DependentUpon>FrmBusquedaIdOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaProveedores.resx">
+      <DependentUpon>FrmBusquedaProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusquedaMateriales.resx">
+      <DependentUpon>FrmBusquedaMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCostosIndirectos.resx">
+      <DependentUpon>FrmCostosIndirectos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCrearOrden.resx">
+      <DependentUpon>FrmCrearOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEditarOrden.resx">
+      <DependentUpon>FrmEditarOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManoDeObra.resx">
+      <DependentUpon>FrmManoDeObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManoDeObraOrden.resx">
+      <DependentUpon>FrmManoDeObraOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMateriales.resx">
+      <DependentUpon>FrmMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialesOrden.resx">
+      <DependentUpon>FrmMaterialesOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrdenes.resx">
+      <DependentUpon>FrmOrdenes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HojaDeCostos.resx">
+      <DependentUpon>HojaDeCostos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UnderControlDataSet.xsc">
+      <DependentUpon>UnderControlDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UnderControlDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UnderControlDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnderControlDataSet.xss">
+      <DependentUpon>UnderControlDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{4c13167a-b767-4f7d-8ff2-cefec103963a}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{94b667a8-85d2-48d7-8688-a03e9f7433fe}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mano de obra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmPrincipal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulo de clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulo mano de obra fixed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulo de materiales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crear orden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Costos indirectos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modulo de ordenes%28Prueba%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmManoDeObraOrden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmMaterialesOrden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmBuscarOrden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmEditarOrden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarOrden21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarMaterial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HojaDeCostos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BusquedaDeEmpleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaterialesOrden2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ManoDeObraOrden2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarProveedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarClientes.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
